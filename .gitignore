@@ -139,3 +139,7 @@ dmypy.json
 /app.py
 /test.py
 /scripts
+
+# agent files
+.qoder/
+.claude/
